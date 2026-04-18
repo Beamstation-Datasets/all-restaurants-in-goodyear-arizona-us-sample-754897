@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Goodyear, Arizona. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Goodyear, Arizona, US",
+  "export_job_id": "ae35bfb9-6307-4bb4-9bad-9f7d3d98e968",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 754897,
+  "location_name": "Goodyear",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-goodyear-arizona-us-sample-754897",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/754897/beamstation_754897_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.91,
+  "sample_records": 22,
+  "sample_sha256": "8ce252925994cdc0629e8c2389359ef8bfc6a9cfc5fa0704a26e697b19d75bf8",
+  "sample_size_bytes": 97297,
+  "total_records": 222,
+  "updated_at": "2026-04-14T18:00:36.575393+00:00"
+}
