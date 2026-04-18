@@ -1,0 +1,12 @@
+{
+  "export_job_id": "ae35bfb9-6307-4bb4-9bad-9f7d3d98e968",
+  "id_short": 754897,
+  "published_at": "2026-04-18T07:03:14Z",
+  "repo_name": "all-restaurants-in-goodyear-arizona-us-sample-754897",
+  "sample_asset_name": "beamstation_754897_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/754897/beamstation_754897_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_records": 22,
+  "sample_sha256": "8ce252925994cdc0629e8c2389359ef8bfc6a9cfc5fa0704a26e697b19d75bf8",
+  "sample_size_bytes": 97297,
+  "total_records": 222
+}
