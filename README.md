@@ -1,6 +1,6 @@
 # All Restaurants in Goodyear, Arizona, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `754897` |
 | Location | Goodyear |
 | Category | Restaurants |
-| Full dataset size | 222 records |
-| Free sample size | 22 records (9.91%) |
-| Last export | 2026-04-14T18:00:36.575393+00:00 |
+| Full dataset size | 171 records |
+| Free sample size | 17 records (9.94%) |
+| Last export | 2026-04-21T19:47:38.951051+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-goodyear-arizona-us-sample-754897/releases/download/sample-latest/beamstation_754897_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
