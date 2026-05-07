@@ -9,9 +9,9 @@
 | Dataset ID | `754897` |
 | Location | Goodyear |
 | Category | Restaurants |
-| Full dataset size | 220 records |
-| Free sample size | 22 records (10.0%) |
-| Last export | 2026-04-28T21:21:29.870108+00:00 |
+| Full dataset size | 228 records |
+| Free sample size | 22 records (9.65%) |
+| Last export | 2026-05-07T15:48:41.853740+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-goodyear-arizona-us-sample-754897/releases/download/sample-latest/beamstation_754897_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
